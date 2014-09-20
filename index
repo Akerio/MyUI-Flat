@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Title -->
+	<title>MyUI Flat: Designed by Andrew M.</title>
+	<!-- Link -->
+	<link href="css/style.css" type="text/css" rel="stylesheet" />
+	<link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+	<link href="assets/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+	<link type="image/x-icon" href="favicon.png" rel="shortcut icon"/>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="progress-bar">
+    <div id="progress-bar-in"></div>
+</div>
+	    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        MyUI Flat
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Index</a>
+                </li>
+                <li>
+                    <a href="#">Login</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Support</a>
+                </li>
+                <li>
+                    <a href="#">Order</a>
+                </li>
+                <li>
+                    <a href="#">Logout</a>
+                </li>
+            </ul></div>
+	<!-- Designed by Andrew M. -->
+	<!-- Box -->
+<div class="col-md-10" id="content-wrapper">
+                <div class="row" style="opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px);">
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="main-box">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="main-box">
+                                 <div class="list-group">
+  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
+  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw"></i>&nbsp; Library</a>
+  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
+  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
+</div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    </div>
+                </div>
+            </div>
+
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+<!-- Copyright -->
+<footer>Copyright &copy 2014 - Andrew M.<br>
+Disponibility: <div class="offline">Offline</div><br>
+</div></footer>
+</html>
